@@ -50,3 +50,4 @@
 - [XR Exhibition](https://www.youtube.com/watch?v=t7xr8eeSOYU)
 - [Discrete Figures 2019 by Rhizomatiks Research and ELEVENPLAY](https://www.youtube.com/watch?time_continue=171&v=s_S3fomiXO0&feature=emb_logo)
 - [Bill T Jones NewYorkLiveArts](https://newyorklivearts.org/)
+- [Mozilla Hubs](https://hubs.mozilla.com/#/)
