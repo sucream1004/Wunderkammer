@@ -16,10 +16,10 @@
 - Focusing on more on emotional and physical expression rather than formal techniques.
 
 ## Experiment on a Character (Based on real person)
-- The specified person "X" (for the customized VR environment) has had suffered from depression.
-- Passing a long tunnel (Description of depression by X).
-- X believes that everyone waits something/somebody.
-- X was impressed by the books Samuel Beckett's Waiting for Godot and Osamu Dazai's No Longer Human (人間失格).
+- The main character (for the customized VR environment) has had suffered from depression.
+- Passing a long tunnel (Description of depression by her).
+- She believes that everyone waits something/somebody.
+- She was impressed by the books Samuel Beckett's Waiting for Godot and Osamu Dazai's No Longer Human (人間失格).
 
 ## Depression
 | Words/Elements  |
