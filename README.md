@@ -45,8 +45,8 @@
 ## Relevant links
 
 ### Dance
-- [Video of Garimda Dance Company (South Korea)](https://www.youtube.com/watch?v=dZ--RpnTnso)
-- [Korea International Modern Dance Competition Gala Concert](https://www.youtube.com/watch?v=XKAPEzIb1Xs&t=161s)
+- [Dance 1](https://www.youtube.com/watch?v=dZ--RpnTnso)
+- [Dance 2](https://www.youtube.com/watch?v=XKAPEzIb1Xs&t=161s)
 
 ### XR
 - [XR Exhibition](https://www.youtube.com/watch?v=t7xr8eeSOYU)
