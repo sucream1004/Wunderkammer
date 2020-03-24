@@ -14,8 +14,6 @@
 - Contemporary dance stresses versatility and improvisation, unlike the strict, structured nature of ballet. [Link](https://www.liveabout.com/what-is-contemporary-dance-1007423)
 - In the early days, it was called free dance, expreshing dance, and in Germany, it was called Neui Tantz.
 - Focusing on more on emotional and physical expression rather than formal techniques.
-- It does not have to be a dance with movements.
-
 
 ## Experiment on a Character (Based on real person)
 - The specified person "X" (for the customized VR environment) has had suffered from depression.
