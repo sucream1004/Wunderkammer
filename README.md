@@ -53,3 +53,7 @@
 - [Mozilla Hubs](https://hubs.mozilla.com/#/)
 
 reality capture photogrammetry
+
+### Sources
+- James Turrell (Artist)
+- https://getrad.co/ (AI-dance ?)
